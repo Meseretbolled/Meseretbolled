@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Meseretbolled student at AASTU
 - 👀 I’m interested in computer related,robotics and artifical intelligence 
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on stem power and computer  engineering 
+- 💞️ I’m looking to collaborate on stem power and software engineering 
 - 📫 How to reach me linkedin https://www.linkedin.com/in/meseret-bolled-8b395325b
 
 <!---
